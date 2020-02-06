@@ -4,3 +4,6 @@ Full stack web developer with knowledge in several front-end and back-end langua
 Self motivated and adept at working with diverse teams to implement projects.
 As a developer, I am passionate about continuing to learn, building tools that will help people, and finding
 outlets that allow me to grow as a developer.
+
+#### Take a look at my porfolio: https://jybragg.github.io/Portfolio_2020/
+
